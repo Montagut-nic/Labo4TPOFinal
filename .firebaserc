@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "clinicatp-8a82e": {
+      "hosting": {
+        "Clinica": [
+          "clinicatp-8a82e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "clinicatp-8a82e"
+  }
+}
